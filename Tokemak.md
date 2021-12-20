@@ -14,9 +14,9 @@
 
 ## Historical Chart
 
-![Tokemak Chart 180d](C:\Users\camer\OneDrive\Pictures\Tokemak 180d Chart.jpeg) 
+![Tokemak Chart 180d](https://user-images.githubusercontent.com/96431097/146810074-f35d1f3d-5f38-48d3-bb11-c19a262fe860.png) 
 
->Twitter is the platform of choice for crypto industry.
+>Tokemak 180d Chart
 
 ## Overview
 
