@@ -10,8 +10,6 @@
 * Whitepaper: [Tokemak Whitepaper](https://docs.tokemak.xyz/)
 * Target Price (2022 End): $150 (2022 End)
 
-<br>
-
 ## Historical Chart
 
 ![Tokemak Chart 180d](https://user-images.githubusercontent.com/96431097/146810074-f35d1f3d-5f38-48d3-bb11-c19a262fe860.png) 
