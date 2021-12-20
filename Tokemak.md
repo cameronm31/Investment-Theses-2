@@ -14,7 +14,7 @@
 
 ## Historical Chart
 
-![Tokemak Chart 180d](https://medium.com/tokemak/tokenomics-4b3857badc73)
+![Tokemak Chart 180d](C:\Users\camer\OneDrive\Pictures\Tokemak 180d Chart.jpeg) 
 
 >Twitter is the platform of choice for crypto industry.
 
@@ -62,6 +62,9 @@ Tokemak functions on three core components –Token Reactors, Liquidity Provider
 
 **Token Reactors:** Token reactors are liquidity pools in which LPs can deposit assets to be directed as liquidity. Each reactor has two sides to it –an asset side, and a TOKE side. Assets for a specific reactor are paired with base assets such as ETH/USDC –and directed as liquidity across the ecosystem. This makes it very simple for users who want to provide liquidity but do not want to pair their assets as required with Uniswap. 
 
+![Token Reactor](https://miro.medium.com/max/700/1*Sr5XQi3wLTZCf9XsWLAW4Q.png)
+> The Token Reactor
+
 **Liquidity  Providers:** Liquidity  providers  provide  single-sided  liquidity,  by depositing  assets  into specific token reactors, and in turn, earn yield as these assets are deployed as liquidity across the ecosystem –these deposits areIL-protected, as would not be the case with Uniswap.
 
 **Liquidity Directors:** Liquidity Directors (LDs) utilize TOKEto control liquidity direction. They deposit TOKE in a given reactor, and use their stake as voting power to direct assets from that reactor to a destination of their choosing. The LD’s earn yields in TOKE. 
@@ -74,7 +77,7 @@ Token (TOKE):TOKE can be seen as the ownership of part of Tokemak’s liquidity,
 
 ## TOKE Distribution
 
-image
+![](https://miro.medium.com/max/1000/1*OZn3aNbfopqP8WFTERcnbQ.png)
 
 ## Catalysts
 - Collateralization of reactors event
@@ -143,9 +146,10 @@ image caption
 ## CRYPTO-NATIVE DILIGENCE
 
 **Code Audits**
-As of now, Tokemak has been audited by a preliminary Trail of Bits audit and an Omniscia audit. This covers all currently operational functions. Further audits from Trail of Bits (a full, comprehensive ToB audit) and Quantstamp are on the way. Link to Omniscia Audit - link
+
+As of now, Tokemak has been audited by a preliminary Trail of Bits audit and an Omniscia audit. This covers all currently operational functions. Further audits from Trail of Bits (a full, comprehensive ToB audit) and Quantstamp are on the way. [Omniscia Audit](https://omniscia.io/tokemak-capital-management-protocol/)
 
 ## Resources
-[Github](https://github.com/Tokemak/tokemak-smart-contracts-public/tree/main)
-[Docs](https://medium.com/tokemak)
-[Code Audits](https://omniscia.io/tokemak-capital-management-protocol/)
+* [Github](https://github.com/Tokemak/tokemak-smart-contracts-public/tree/main)
+* [Docs](https://medium.com/tokemak)
+* [Code Audits](https://omniscia.io/tokemak-capital-management-protocol/)
