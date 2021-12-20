@@ -100,7 +100,7 @@ We have taken conservative assumptions for TVL, and Market Cap growth rate, as w
 
 **Model Outputs**
 
-Image
+![](https://user-images.githubusercontent.com/96431097/146810749-475ca93e-a988-48fd-8627-07ab02345e2a.png)
 
 Detailed Model: link
 
