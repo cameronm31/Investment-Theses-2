@@ -131,8 +131,8 @@ M31 is an active participant in the Tokemak ecosystem –helping earn outsized r
 **Working with Tokemak team** -on product roadmap, new strategies, & project integrations
 
 ## Token Metrics
-image
-image caption
+![](https://user-images.githubusercontent.com/96431097/146811180-da5232e3-1e19-4f44-abc5-36b3c92b2f87.png)
+>TOKE emissions began August 15, 2021
 
 ## Management & Team
 
