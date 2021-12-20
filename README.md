@@ -1,2 +1,2 @@
-# Investment-Theses-2
-Investment Theses
+# investment-theses
+
